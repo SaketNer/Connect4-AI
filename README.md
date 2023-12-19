@@ -6,8 +6,8 @@ This Python implementation features a Game Tree Search AI designed to play the g
 Ensure that Python 3 is installed on your system.<br>
 
 ### Instructions
-Download both FourConnectAI.py and FourConnect.py into a folder.
-Open a Terminal in that folder and run "python3 FourConnectAI.py"
+Download both FourConnectAI.py and FourConnect.py into a folder.<br>
+Open a Terminal in that folder and run "python3 FourConnectAI.py"<br>
 
 ## How the code works
 This FourConnectAI.py has the complete code for the AI player. It encompasses the implementation of tree search, heuristic function and alpha-beta pruning. The main function is also present in this function.<br>
